@@ -18,3 +18,7 @@ To inference a single image, run:
 Inference results will be saved to inference/
 
 Pretrained model (70% accuracy on validation set): [model.pt](https://drive.google.com/file/d/1eJbJg2uya6aq1whU7VZyYSRRQAj-w015/view?usp=sharing)
+
+Examples:
+[test1.jpg](inference/inference_test1.jpg)
+[test2.jpg](inference/inference_test2.jpg)

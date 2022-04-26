@@ -41,7 +41,7 @@ if __name__ == '__main__':
         transform = data_transforms
     )
 
-    custom_trainval = {'train': testing_train,
+    custom_trainval = {'train': custom_train,
                           'val': None}
 
     logger.log_info('Loading Faster-RCNN-Resnet50-FPN.')

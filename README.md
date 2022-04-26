@@ -1,7 +1,7 @@
 # torso-detection
 
 Skin color classification model trained on FairFace dataset.
-Download [the dataset](https://drive.google.com/file/d/1RHxcydq9lI16lu4JFAkOYadvz2oNGj5x/view?usp=sharing) and place it in the folder data/fairface
+Download [the dataset](https://drive.google.com/file/d/1YtY4Zx5Xx0kpAeyKEEHoAlTpooFa04Xf/view?usp=sharing) and place it in the folder data/fairface
 
 To train the network, run:
 
@@ -17,7 +17,7 @@ To inference a single image, run:
     
 Inference results will be saved to inference/
 
-Pretrained model (70% accuracy on validation set): [model.pt](https://drive.google.com/file/d/1eJbJg2uya6aq1whU7VZyYSRRQAj-w015/view?usp=sharing)
+Pretrained model: [model.pt](https://drive.google.com/file/d/1eJbJg2uya6aq1whU7VZyYSRRQAj-w015/view?usp=sharing)
 
 Examples:
 [test1.jpg](inference/inference_test1.jpg)
